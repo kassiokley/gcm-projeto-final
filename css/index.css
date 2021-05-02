@@ -97,6 +97,8 @@ h2, h3, p, a, button {
 }
 
 .container .content main {
+  margin-top: 80px;
+  margin-bottom: 80px;
   width: 100%;
   height: 100%;
   flex: 1;
@@ -127,8 +129,8 @@ h2, h3, p, a, button {
 .container .content main section article h1 {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 35px;
+  line-height: 38px;
   color: var(--dark-text-color);
 }
 
@@ -148,6 +150,19 @@ h2, h3, p, a, button {
   line-height: 24px;
 }
 
+.container .content main section div article button {
+  width: 270px;
+  height: 50px;
+  background-color: var(--dark-background-color);
+  margin-top: 15px;
+  font-size: 22px;
+  line-height: 24px;
+  color: var(--light-text-color);
+  text-align: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
 .container .content main section div img {
   padding-top: 15px;
   margin-left: 200px;
@@ -162,8 +177,16 @@ h2, h3, p, a, button {
 }
 
 .container .content main section div article div p {
-  text-align: left;
-  font-size: 18px;
+  font-size: 22px;
+  line-height: 24px;
+  color: var(--dark-text-color);
+}
+
+.container .content main section div article div a {
+  margin-top: 15px;
+  font-size: 22px;
+  line-height: 24px;
+  color: var(--dark-text-color);
 }
 
 .container .content footer {
