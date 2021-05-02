@@ -102,6 +102,50 @@ h2, h3, p, a, button {
   flex: 1;
 }
 
+#missao{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 5vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 5vw 1vw 5vw 0vw;
+  min-width:20vw;
+  float:right;
+}
+#visao{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 5vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 5vw 3vw 5vw 1vw;
+  min-width:40vw;
+  float:right;
+}
+#valores{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 0vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 5vw 5vw 5vw 0vw;
+  min-width:30vw;
+  float:right;
+}
+#grupo{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 0vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 5vw 5vw 5vw 5vw;
+  min-width:30vw;
+  float:left;
+}
 .container .content footer {
   display: flex;
   flex-direction: column;
