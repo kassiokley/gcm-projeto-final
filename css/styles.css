@@ -131,21 +131,49 @@ h2, h3, p, a, button {
   margin-right: 0vw;
   font-size: 1vw;
   text-align: center;
-  padding: 5vw 5vw 5vw 0vw;
+  padding: 6vw 5vw 5vw 0vw;
   min-width:30vw;
   float:right;
 }
-#grupo{
+
+#Joercia{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 5vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 10vw 1vw 5vw 0vw;
+  min-width:20vw;
+  float:right;
+}
+
+#Kassio{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 5vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 10vw 3vw 5vw 1vw;
+  min-width:40vw;
+  float:right;
+
+}
+
+#Matheus{
   width: 100px;
   height: 100px;
   display: inline-block;
   margin-right: 0vw;
   font-size: 1vw;
   text-align: center;
-  padding: 5vw 5vw 5vw 5vw;
+  padding: 10vw 5vw 5vw 0vw;
   min-width:30vw;
-  float:left;
+  float:right;
+  
 }
+
 .container .content footer {
   display: flex;
   flex-direction: column;
