@@ -11,7 +11,7 @@
 
 ### Objetivo
 
-- Criaçao de um site de uma empresa de softwere
+- Criaçao de um site de uma empresa de Desenvolvimento de Software
   
 ### Descriçao
 
