@@ -11,28 +11,26 @@
 
 ### Objetivo
 
-- Criaçao de um site de uma empresa de softwere.
+- Criaçao de um site de uma empresa de softwere
   
 ### Descriçao
 
-<p>Criamos um site de uma empresa de softwere intitulada JKM - Soluçoes em TI, contendo três páginas interligadas, sao elas:</p>
+- Criamos um site de uma empresa de softwere intitulada JKM - Soluçoes em TI
 
 ### Páginas
 
-- Home;
-- Equipe;
-- Contato.
+- Home
+- Equipe
+- Contato
 
-### Tecnologias
-
-As seguintes ferramentas foram utilizadas na construção da página:
+### Tecnologias utilizadas
 
 - [HTML](http://pt-br.html.net/)
 - [CSS](http://pt-br.html.net/tutorials/css/)
 
 ### Status
 
-- Página concluída: white_check_mark
+- Finalizado
 
 ### Autores
 
