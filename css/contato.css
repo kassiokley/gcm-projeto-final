@@ -48,8 +48,8 @@ h2, h3, p, a, button {
   font-family: 'Nunito', sans-serif;
 }
 
-h1 { font-size: 36px; line-height: 1.6em; }
-h2 { font-size: 26px; line-height: 1.6em; }
+h1 { font-size: 36px; line-height: 1.3em; }
+h2 { font-size: 26px; line-height: 1.3em; }
 
 .container {
   width: 100%;
