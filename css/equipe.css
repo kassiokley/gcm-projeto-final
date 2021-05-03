@@ -112,19 +112,6 @@ h2, h3, p, a, button {
   padding-bottom: 40px;
 }
 
-.container .content main section div {
-  display: flex;
-  flex: row;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.container .content main section div img {
-  padding-top: 15px;
-  margin-left: 200px;
-  width: 400px;
-}
-
 .container .content main section article {
   width: 100%;
   display: flex;
@@ -147,65 +134,67 @@ h2, h3, p, a, button {
   color: var(--dark-text-color);
 }
 
+.container .content main section article h1 strong {
+  color: var(--dark-background-color);
+}
+
+.container .content main section div {
+  display: flex;
+  flex: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .container .content main section div article p {
   font-size: 24px;
   line-height: 24px;
 }
 
-.container .content main section div article iframe {
-  margin-left: 200px;
+.container .content main section div article button {
+  width: 270px;
+  height: 50px;
+  background-color: var(--dark-background-color);
+  margin-top: 15px;
+  font-size: 22px;
+  line-height: 24px;
+  color: var(--light-text-color);
+  text-align: center;
+  align-items: center;
+  border-radius: 5px;
 }
 
-.container .content main section div article form div {
+.container .content main section div img {
+  padding-top: 15px;
+  margin-left: 200px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.container .content main section div .img {
+  padding-top: 15px;
+  margin-left: 80px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.container .content main section div article div {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  align-items: flex-start;
-  margin-top: 40px;
+  align-items: center;
+  justify-content: center;
 }
 
-.container .content main section div article form div label {
-  margin-top: 15px;
-  font-family: 'Nunito', sans-serif;
-  font-size: 24px;
+.container .content main section div article div p {
+  font-size: 22px;
   line-height: 24px;
-  font-weight: 700;
   color: var(--dark-text-color);
 }
 
-.container .content main section div article form div input {
-  width: 480px;
-  height: 40px;
-  border-radius: 5px;
-  border: 1px solid var(--dark-text-color);
-
-  font-family: 'Nunito', sans-serif;
-  font-size: 24px;
-  line-height: 24px;
-}
-
-.container .content main section div article form div textarea {
-  width: 480px;
-  height: 100px;
-  border-radius: 5px;
-  border: 1px solid var(--dark-text-color);
-
-  font-family: 'Nunito', sans-serif;
-  font-size: 24px;
-  line-height: 24px;
-}
-
-.container .content main section div article form div button {
+.container .content main section div article div a {
   margin-top: 15px;
-  margin-left: 280px;
-  width: 200px;
-  height: 50px;
-  border-radius: 5px;
-  background-color: var(--dark-background-color);
-  color: var(--light-text-color);
-  font-family: 'Nunito', sans-serif;
-  font-size: 24px;
+  font-size: 22px;
   line-height: 24px;
+  color: var(--dark-text-color);
 }
 
 .container .content footer {
