@@ -1,0 +1,215 @@
+/* Cores do projeto */
+:root {
+  --dark-background-color: #09215D;
+  --contrast-background-color: #2F3891;
+  --light-background-color: #FEFEFE;
+  --dark-text-color: #2d2f3b;
+  --light-text-color: #FEFEFE;
+  --button-contrast-color: #F2464F;
+}
+
+/* Reset CSS */
+a {
+	text-decoration: none;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a, em, img, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, article, footer, header, nav, section, main {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ul {
+	font-size: 1em;
+	font-weight: normal;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+/* CSS do site */
+body {
+  font-family: 'Alice', serif;
+  font-family: 'Nunito', sans-serif;
+  background-color: #FFFFFF;
+}
+
+h1 {
+  font-family: 'Alice', serif;
+}
+
+h2, h3, p, a, button {
+  font-family: 'Nunito', sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+}
+
+.container .content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.container .content header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  height: 100px;
+  background-color: var(--dark-background-color);
+
+  padding: 60px;
+}
+
+.container .content header h1 {
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 72px;
+  color: var(--light-text-color);
+}
+
+.container .content header nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.container .content header nav ul li {
+  padding: 20px 20px;
+}
+
+.container .content header nav ul li a {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  color: var(--light-text-color);
+}
+
+.container .content main {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  width: 100%;
+  height: 100%;
+  flex: 1;
+}
+
+#missao{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 5vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 5vw 1vw 5vw 0vw;
+  min-width:20vw;
+  float:right;
+}
+#visao{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 5vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 5vw 3vw 5vw 1vw;
+  min-width:40vw;
+  float:right;
+}
+#valores{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 0vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 6vw 5vw 5vw 0vw;
+  min-width:30vw;
+  float:right;
+}
+
+#Joercia{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 5vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 10vw 1vw 5vw 0vw;
+  min-width:20vw;
+  float:right;
+}
+
+#Kassio{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 5vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 10vw 3vw 5vw 1vw;
+  min-width:40vw;
+  float:right;
+
+}
+
+#Matheus{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 0vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 10vw 5vw 5vw 0vw;
+  min-width:30vw;
+  float:right;
+  
+}
+
+.container .content footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  height: 100px;
+  background-color: var(--dark-background-color);
+}
+
+.container .content footer nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.container .content footer nav ul li {
+  padding: 0px 20px;
+}
+
+.container .content footer nav ul li a p {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  color: var(--light-text-color);
+}
+
+.container .content footer p {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  color: var(--light-text-color);
+  margin-bottom: 20px;
+}
+
+/* Responsividade do site */
