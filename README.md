@@ -23,7 +23,7 @@
 - Equipe
 - Contato
 
-### Tecnologias utilizadas
+### Tecnologias
 
 - [HTML](http://pt-br.html.net/)
 - [CSS](http://pt-br.html.net/tutorials/css/)
