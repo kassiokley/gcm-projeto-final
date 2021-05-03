@@ -2,20 +2,22 @@
 <p align="center">Projeto criado para a disciplina Gerência de Configuraçao e Mudanças</p>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#descriçao">Descriçao/a> •
+ <a href="#objetivo">Objetivo</a> • 
+ <a href="#descriçao">Descriçao</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#status">Status</a> •
+ <a href="#status">Status</a> • 
  <a href="#autores">Autores</a>
 </p>
 
 ### Objetivo
 
-<p>Criaçao de um site de uma empresa de softwere./p>
+- Criaçao de um site de uma empresa de softwere.
   
 ### Descriçao
 
-<p>Criamos um site de uma empresa de softwere intitulada JKM - Soluçoes em TI, contendo três páginas interligadas, sao elas:
+<p>Criamos um site de uma empresa de softwere intitulada JKM - Soluçoes em TI, contendo três páginas interligadas, sao elas:</p>
+
+### Páginas
 
 - Home;
 - Equipe;
@@ -30,10 +32,10 @@ As seguintes ferramentas foram utilizadas na construção da página:
 
 ### Status
 
-<p>Página concluída :white_check_mark:<p>
+- Página concluída: white_check_mark
 
 ### Autores
 
-<h4>Joercia Lacerda<h4>
-<h4>Kassio Kley<h4>
-<h4>Matheus<h4>
+- Joercia Lacerda
+- Kassio Kley
+- Matheus
