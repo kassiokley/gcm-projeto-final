@@ -11,11 +11,13 @@
 
 ### Objetivo
 
-<p>Criaçao de um site de uma empresa de softwere.</p>
+- Criaçao de um site de uma empresa de softwere.
   
 ### Descriçao
 
-<p?>Criamos um site de uma empresa de softwere intitulada JKM - Soluçoes em TI, contendo três páginas interligadas, sao elas:</p>
+<p>Criamos um site de uma empresa de softwere intitulada JKM - Soluçoes em TI, contendo três páginas interligadas, sao elas:</p>
+
+### Páginas
 
 - Home;
 - Equipe;
@@ -30,7 +32,7 @@ As seguintes ferramentas foram utilizadas na construção da página:
 
 ### Status
 
-<p>Página concluída: white_check_mark</p>
+- Página concluída: white_check_mark
 
 ### Autores
 
